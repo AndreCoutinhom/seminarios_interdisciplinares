@@ -1,4 +1,4 @@
-> Anotações e registros do mestrado PIT da UNIFESP.
+> Anotações e registros de atividades no mestrado PIT da UNIFESP.
 # Seminários Interdisciplinares
 
 ![image](https://github.com/AndreCoutinhom/seminarios_interdisciplinares/assets/91290799/a1d98138-520b-4910-a8b4-c597fb660728)
