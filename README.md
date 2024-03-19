@@ -13,6 +13,6 @@ Há sempre uma semana de prazo para a entrega de cada resumo.
 ## Checklist de resumos
 
 <sub><sup>14/03 - 21/03</sup></sub>
-- [ ] Processamento de Imagens e Visão Computacional para o Desenvolvimento de Inovações Tecnológicas.
+- [x] Processamento de Imagens e Visão Computacional para o Desenvolvimento de Inovações Tecnológicas.
 
 ---
