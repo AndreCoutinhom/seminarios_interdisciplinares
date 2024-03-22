@@ -14,6 +14,6 @@ Há sempre uma semana de prazo para a entrega de cada resumo.
 
 <sub><sup>14/03 - 21/03</sup></sub>
 - [x] Processamento de Imagens e Visão Computacional para o Desenvolvimento de Inovações Tecnológicas.
-- [ ] Captação de Recursos para Projetos de Inovação Tecnológica
+- [x] Captação de Recursos para Projetos de Inovação Tecnológica
 
 ---
