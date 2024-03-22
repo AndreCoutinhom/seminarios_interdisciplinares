@@ -1,4 +1,4 @@
-# Captação de Recursos para Projetos de Inovação Tecnológica
+# Captação de Recursos e Gestão de Projetos de Inovação Tecnológica
 
 Inovações tecnológicas podem trazer mudanças extraordinárias na sociedade, alterando a forma como o mundo se comporta diante da ciência. Por esse motivo, é muito importante que pesquisadores acadêmicos saibam realizar estratégias de captação de recursos e gestão de projetos.
 
